@@ -81,7 +81,6 @@ nav h1 a {
     background-color: #eee;
     font-size: 17px;
     margin: 0;
-    /* width: calc(50% - 80px); */
 }
 
 /* Display list items side by side */
@@ -224,40 +223,7 @@ nav h1 a {
 .inside header {
   width: 100%;
 }
-/*.inside #map-container {
-  position: relative;
-  width: 100%;
-  height: 270px;
-}
-.inside #map {
-  background-color: #ccc;
-  width: 100%;
-} 
-#resraurant-container {
-  position: relative;
-  width: 100%;
-}*/
 
-/* .inside header {
-  position: fixed;
-  top: 0;
-  width: 100%;
-  z-index: 1000;
-}
-.inside #map-container {
-  background: blue none repeat scroll 0 0;
-  height: 87%;
-  position: fixed;
-  right: 0;
-  top: 80px;
-  width: 50%;
-}
-
-.inside #footer {
-  bottom: 0;
-  position: absolute;
-  width: 50%;
-} */
 #restaurant-name  {
   color: #444;
   font-family: Arial,sans-serif;
@@ -326,9 +292,7 @@ nav h1 a {
   width: 100%;
 }
 
-
 /* ====================== Media Queries ====================== */
-
 
 @media only screen and (min-width: 650px) {
   body {
