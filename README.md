@@ -1,14 +1,10 @@
 **Restaurant Reviews App (Stage 1)**
 Project created as part of the Udacity Front-End Developer Nanodegree.
 
-*Project Instructions*
+**Project Instructions**
 In this project, a static webpage that lacks accessibility is given to be converted into a mobile-ready web application. The design must be responsive on different sized displays and accessible for screen reader use. It will also be added a service worker to begin the process of creating a seamless offline experience for the users.
 
-*To run the application you have some options:*
-
-1. Open it [here](https://neoveta.github.io/restaurant-stage-1/)
-
-2. Run it localy
+*To run the application:*
 
  - Download as .zip file or clone this project:
 
@@ -20,4 +16,4 @@ In a terminal, check the version of Python you have: python -V. If you have Pyth
 With your server running, visit the site: http://localhost:8000.
 
 *Code Dependencies*
-Project Restaurant Reviews (Stage 1) - Starter Code
+- Project Restaurant Reviews (Stage 1) - Starter Code
